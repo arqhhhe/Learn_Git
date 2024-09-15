@@ -1,2 +1,3 @@
 # Learn_Git
-Just learning
+Learning Git Flow using CLI
+Just Enjoy!
